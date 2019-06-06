@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <head>
-	<title></title>
+	<meta charset="utf-8">
+	<title>Test one</title>
 </head>
 <body>
 
